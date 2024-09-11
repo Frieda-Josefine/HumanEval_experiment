@@ -40,7 +40,7 @@ The data is hosted on [GIN](). Instructions for accessing the data and using the
 
 ### Acknowledgments of supervision for this project
 
-- Lukas Muttenthaler, Bernhard Spitzer, Klaus Greff, Michael C. Mozer, Klaus Robert Müller, Thomas Unterthiner, Andrew Lampinen
+- Lukas Muttenthaler, Bernhard Spitzer, Klaus Greff, Michael C. Mozer, Klaus Robert Müller, Thomas Unterthiner, Andrew Lampinen, Katherine Hermann, Robert Geirhos
 
 ## Contact
 
