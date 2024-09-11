@@ -18,7 +18,7 @@ To gather human similarity judgments, we aim to employ the **odd-one-out task**.
     - `data_preprocessing.ipynb` processing of data, mainly to anonymize results and remove participants that do not meet catch-trial threshold.
 - `experiment/`: Code for running the experiment, including stimuli and experiment scripts, preparation of experiment, ect. Please also find a separate `README.md` about the experiment here.
 - `docs/`: Documentation and references for the project.
-    - `Variable_codebook_HumanEval150324`: Variable codebook giving an overview of all the variables (and variable levels) used in the study.
+    - `Variable_codebook_Levels`: Variable codebook giving an overview of all the variables (and variable levels) used in the study.
 
 ## Data Access
 The data is hosted on [GIN](). Instructions for accessing the data and using the data files is also provided on GIN.
