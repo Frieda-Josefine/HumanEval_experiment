@@ -15,7 +15,7 @@ To gather human similarity judgments, we aim to employ the **odd-one-out task**.
 - `analysis/`: Scripts and notebooks for data analysis. These are the scripts:
     - `data_preprocessing.ipynb` : Script to remove participant identifiable information from the raw data files and prepare to data release
     - `demographic_information.ipynb`: Script analysing the demographic information of the participants
-    - ``
+    - `data_preprocessing.ipynb` processing of data, mainly to anonymize results and remove participants that do not meet catch-trial threshold.
 - `experiment/`: Code for running the experiment, including stimuli and experiment scripts, preparation of experiment, ect. Please also find a separate `README.md` about the experiment here.
 - `docs/`: Documentation and references for the project.
     - `Variable_codebook_HumanEval150324`: Variable codebook giving an overview of all the variables (and variable levels) used in the study.
@@ -38,7 +38,7 @@ The data is hosted on [GIN](). Instructions for accessing the data and using the
 
 [MIT]
 
-### Acknowledgments of Supervision for this experiment
+### Acknowledgments of supervision for this project
 
 - Lukas Muttenthaler, Bernhard Spitzer, Klaus Greff, Michael C. Mozer, Klaus Robert Müller, Thomas Unterthiner, Andrew Lampinen
 
