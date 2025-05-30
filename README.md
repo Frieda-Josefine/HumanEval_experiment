@@ -1,4 +1,4 @@
-# HumanEval: Odd-One-Out Task Experiment
+# 🧠  HumanEval: Odd-One-Out Task Experiment
 
 Created by Frieda Born in January 2024.
 
@@ -13,9 +13,9 @@ To gather human similarity judgments, we aim to employ the **odd-one-out task**.
 
 ## Repository Structure
 - `analysis/`: Scripts and notebooks for data analysis. These are the scripts:
-    - `data_preprocessing.ipynb` : Script to remove participant identifiable information from the raw data files and prepare to data release
-    - `demographic_information.ipynb`: Script analysing the demographic information of the participants
-    - `data_preprocessing.ipynb` processing of data, mainly to anonymize results and remove participants that do not meet catch-trial threshold.
+    - `data_preprocessing.ipynb` : Script to remove participant identifiable information from the raw data files and prepare to data release.
+    - `demographic_information.ipynb`: Script analysing the demographic information of the participants.
+    - `stats_eval.ipynb` Script that holds statistical tests and visualization.
 - `experiment/`: Code for running the experiment, including stimuli and experiment scripts, preparation of experiment, ect. Please also find a separate `README.md` about the experiment here.
 - `docs/`: Documentation and references for the project.
     - `Variable_codebook_Levels`: Variable codebook giving an overview of all the variables (and variable levels) used in the study.
@@ -25,8 +25,7 @@ The data is hosted on [GIN](). Instructions for accessing the data and using the
 
 ## Getting Started
 
-- The experiment can be accessed via this public link: https://967-humaneval-164.exp.amd.mpib.org/
-(If the link does not work, the experiment was deactivated on public servers after data collection was completed.)
+- The experiment was be accessed via a public link of the form: "https://967-humaneval-164.exp.amd.mpib.org/"(not active anymore, as the experiment was deactivated on public servers after data collection was completed).
 
 ### Prerequisites
 
